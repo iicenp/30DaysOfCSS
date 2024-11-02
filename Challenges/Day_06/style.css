@@ -12,7 +12,7 @@ body {
     height: 90px;
     background-color: white;
     transform: rotate(45deg);
-    animation: beat 1.4s linear infinite;
+    animation: beat 5ms linear infinite;
 }
 
 .heart:before {
